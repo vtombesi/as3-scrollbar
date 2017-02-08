@@ -10,7 +10,7 @@ How to use:
 * Target a clip in your .fla that needs to be scrolled, create a scrollbar - or use mine, just joking...
 * In your .fla timeline, copy this:
 
-````actionscript
+````actionscript3
   import Scrollbar; 
   // import scrollbar class
   // create scrollbar instance
